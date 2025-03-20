@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i95xf3va3-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i95xf3va3-dotnet-basic-gitops
